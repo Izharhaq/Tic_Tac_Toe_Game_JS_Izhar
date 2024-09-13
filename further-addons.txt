@@ -1,0 +1,4 @@
+1. add a feature of draw -->> Hint : take  a variable count and see the click counts reaches 9 and if it gets nno winner conditions
+    then display a message of draw.
+2. Use diffrent color after click for X and O.
+
